@@ -19,8 +19,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Varvara Kozyreva
+translatorLinks: https://twitter.com/varvarakozyreva
 date: "27 Марта 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
 abstract: "Этот отчет использует общедоступные геномные данные для отслеживания распространения COVID-19. Отчеты обновляются еженедельно."
@@ -134,14 +134,13 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [Continued spread across borders in the last 3-5 weeks](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
+# [Распространение через границы продолжающееся в последние 3-5 недель](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
 
-Here, we show samples collected across Europe in the last 3 weeks, colored by the country they were isolated in.
-Notably, while there are some small clusters that are country-specific, there is also a great deal of mixing between isolates from different countries.
+Здесь мы показываем образцы,собранные в Европе в последние 3 недели,раскрашенными в соответсвии со странами,в которых их выделили. Примечательно, что несмотря на то что некоторые мелкие кластеры специфичны к конкретным странам, также в большой степени наблюдается перемешивание между изолятами из разных стран. 
 <br><br>
-This suggests that there has been continued spread across borders within the last 3-5 weeks.
+Это поддерживает факт распространения за пределы государственных границ продолжалось в последние 2-5 недель. 
 <br><br>
-This geographic clustering might become stronger with recent mitigation efforts that curtail travel between regions.
+Данная географическая группировка может стать еще более выраженной в связи с недавними предохранительными мерами ограничивающими перемещение между регионами.
 <!-- There is no right side text -->
 
 <!-- ##### slide break ##### -->
