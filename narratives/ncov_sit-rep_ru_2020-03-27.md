@@ -126,7 +126,7 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ############ EUROPE ############# -->
 <!-- This is left-side text 4-->
-# [Обновления для Европы](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
+# [Обновления по Европе](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
 
 
 <!-- There is no right side text -->
@@ -155,7 +155,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ NORTH AMERICA ############# -->
 <!-- This is left-side text 6-->
-# [Обновления для Северной Америки](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
+# [Обновления по Северной Америке](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -188,17 +188,17 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 9-->
-# [Likely two local transmission chains in California](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
+# [Вероятность двух местных цепей передач в Калифорнии](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
 
-We see similar patterns elsewhere in the U.S.
+Мы видим подобные мотивы в других частях США.
 <br><br>
-Here, we see several samples from Solano County in northern California, that are sampled on different dates but very closely related to one another.
+Здесь мы видим несколько образцов из округа Солано в Северной Калифорнии, которые были изолированы в разное время, но очень близко родственны друг другу.
 <br><br>
-While the available data from California is too limited to make strong conclusions, this preliminary evidence is consistent with local transmission within Solano County.
+Хотя доступные данные из Калифорнии слишком ограничены, чтобы делать большие выводы, это предварительное свидетельство говорит о местной передачи внутри округа Солано. 
 <br><br>
-Elsewhere in the tree, we see a similar pattern for samples isolated in Santa Clara County.
+В других частях дерева мы видим похожую ситуацию с образцами изолированными в округе Санта Клара.
 <br><br>
-These counties' clusters of cases are likely to due to separate introductions, based on their relative positions in the tree.
+На основании их соответствующих позиций на дереве, вероятно, что эти группы случаев из двух округов произошли в результате независимых заносов. 
 <!-- There is no right side text -->
 
 
