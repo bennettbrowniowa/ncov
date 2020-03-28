@@ -212,7 +212,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 11-->
-# [Первичные случаи связанные с путешествиями протестированные в Южной Америке](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
+# [Первичные случаи из Южной Америки, связанные с путешествиями](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
 У нас пока нет достаточного количества данных секвенирования из Южной Америке.
 Из доступных данных- большинство от путешественников. 
 Здесь каждый случай раскрашен в соответствии с известной историей путешествий.
@@ -313,16 +313,16 @@ The virus has likely been circulating in this area since at least the end of Feb
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-## Takeaways
-####  In the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
+## Выводы
+####  На протяжении нескольких последующих недель мы будем наблюдать за Европейской вспышкой на наличие признаков того, замедлят ли новые смягчающие меры перенос через государственные границы. 
 <br><br>
-#### We will be monitoring the situation in South America for signs of local transmission as more sequences become available.
+#### Мы будет следить за ситуацией в Южной Америке на наличие признаков местной передачи по мере того, как все больше последовательностей становятся доступными. 
 <br><br>
-####  The U.S. epidemic likely has very complex transmission patterns of both import and spread across even disparate parts of the country. We find evidence of multiple local transmission chains in Washington and California.
+####  Эпидемия в США вероятно обладает очень сложной структурой передач, включающей как импортирование, так и распространение между различными частями страны. У нас есть доказательства существования множетсвенных местных цепей передач в штатах Вашингтон и Калифорния.  
 <br><br>
-#### We find evidence of local transmission in New South Wales, Australia.
+#### Мы находим подтверждения местной передачи в штате Новый Южный Уэльс в Австралии.
 <br><br>
-#### We find evidence of local transmission in Kinshasa in the DRC. We do not yet have enough data to assess whether the virus is circulating locally in other parts of Africa.
+#### Мы находим доказательства местной передачи в Киншаса в Демократической Республике Конго. У нас пока нет достаточных данных, чтобы оценить циркулирует ли вирус локально в других частях Африки. 
 ```
 
 <!-- ##### slide break ##### -->
