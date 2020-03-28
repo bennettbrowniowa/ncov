@@ -226,7 +226,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ ASIA ############# -->
 <!-- This is left-side text 12-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
+# [Обновления по Азии](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -234,18 +234,18 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Export of COVID-19 from Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Экспортирование COVID-19 из Ирана](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-We do not yet have viral genomes from Iran.
-However, we do have sequences from many cases with reported travel to Iran.
+Пока что у нас нет вирусных геномов из Ирана.
+Однако у нас есть множество случаев с известными поездками в Иран.
 <br><br>
-Most sequences with travel history to Iran group together, suggesting that a lot of the Iranian cases were derived from a single introduction into Iran.
+Большинство последовательностей от случаев с историей путешествий в Иран группируются вместе, что говорит о том, что многие иранские случаи произошли от единичного заноса в Иран. 
 <br><br>
-At the very bottom of the tree, we see a new sequence from a woman in Pakistan with reported travel to Iran.
-Interestingly, this case is an outgroup to the other cases that we know about from Iran, but was sampled around the same time.
+В самом низу дерева мы видим новую последовательность от женщины из Пакистана, сообщившей о поездке в Иран. 
+Интересно, что этот случай попадает вне группы по отношению к остальным случаям из Ирана, о которых нам известно, однако соответствующий образец был собран приблизительно в то же время. 
 <br><br>
-This is consistent with several possible hypotheses; as more data emerges, we'll update our analysis.
+Это свидетельствует о возможности нескольких гипотез; мы обновим наш анализ как только появится больше данных.
 <!-- There is no right side text -->
 
 
