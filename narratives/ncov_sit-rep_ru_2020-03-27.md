@@ -177,11 +177,11 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 8-->
-# [Multiple transmission chains circulating in Washington state](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
+# [Множественные цепи передач, циркулирующие в штате Вашингтон](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
 
-Looking at the cases in Washington state, we see that there are at least two separate local outbreak clusters.
+Взлянув на случаи заболеваний в штате Вашингтон, мы видим, что существуют как минимум 2 отличных местных вспышечных кластера.
 <br><br>
-However, the two clusters have different origins: the first cluster is most closely related to samples from China, while the second is most closely related to samples from Europe. It is also possible that these introductions were indirect, with unsampled cases from a different region in between.
+Однако, эти 2 кластера имеют различное происхождение: первый кластер наиболее близко связан с образцами из Китая, в то время как второй кластер наиболее связан с образцами из Европы. Также возможно, что эти заносы являются непрямыми, с незафиксированными случаями из разных регионов в промежутке. 
 <br><br>
 <!-- There is no right side text -->
 
