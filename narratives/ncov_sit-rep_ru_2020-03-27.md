@@ -296,20 +296,19 @@ The virus has likely been circulating in this area since at least the end of Feb
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 19-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Что можешь сделать ты](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...лично
+* Практикуй строгое социальной дистанцирование, особенно если ты относишься к уязвимой группе.
+* Помни, что, даже если ты не особо подвержен опасности, то многие люди окружающие тебя могут быть уязвимы; следуй этим мерам предосторожности, чтобы защитить окружающих.
+* Мой руки так, как будто ты "только что порезал острый перец халапиньо и должен поменять контактные линзы"  
+* Оставайся дома, насколько это возможно, - особенно, если ты болен; запасись дополнительными предметами первой необходимости, на случай если тебе придется находиться под домашним карантином.  
+* Если ты работадатель, поощряй своих сотрудников работать на дому, если возможно.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...и как должностное лицо  
+* Обеспечь свободное и широкодоступное тестирование.  
+* Учереди строгие меры социального дистанцирования.  
+* Обеспечь финансирование и введи массовые действия по отслеживанию контактов.  
+* Финансово поддерживай тех, кто наиболее пострадал в связи с мерами социального дистанцирования.
 
 <!-- This is the right-side text -->
 
