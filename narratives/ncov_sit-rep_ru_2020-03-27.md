@@ -46,30 +46,30 @@ abstract: "Этот отчет использует общедоступные �
 * [Благодарности](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Резюме
 
-We analyzed 1,495 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we report:
+Мы провели анализ 1,495-и общедоступных геномов COVID-19. Сопоставив эти геномы вируса между собой, мы можем охарактеризовать, как COVID-19 перемещается по всему миру и распространяется локально. В обновлениях этой недели мы сообщаем:
 
-**Europe**  
-* We continue to see strong mixing of samples across Europe, suggesting that the virus has continued to move across borders in the last 3-5 weeks. As mitigation measures have time to take effect, we may see more clustering of cases by country.
+**Европа**  
+* Мы продолжаем наблюдать сильное смешивание образцов по всей Европе, что свидетельствует о том, что вирус продолжал распространяться через границы в течение последних 3-5 недель. Поскольку меры по смягчению последствий еще имеют время чтобы показать эффект, мы можем увидеть больше кластеризации случаев заражения по странам.
 
-**North America**   
-* Within the U.S., transmission patterns are complex: samples collected from opposite sides of the country still show close relationships.
-* Washington state has had at least two independent introductions (the first likely from China, the second likely from Europe), which have led to two separate transmission chains.
-* There is evidence for likely local transmission within several states, most clearly within California.
+**Северная Америка**   
+* В США схемы передачи вируса являются сложными: образцы, взятые с противоположных концов страны, по-прежнему демонстрируют тесную взаимосвязь.
+* В штате Вашингтон было по крайней мере два независимых внедрения вируса (первое, вероятно, из Китая, второе, вероятно, из Европы), которые привели к двум отдельным цепям передачи.
+* Есть доказательства вероятно локальной передачи вируса в нескольких штатах, особенно в Калифорнии.
 
-**Central and South America**
-* We received new sequences from South America this week, but sampling remains sparse. There may be more COVID activity in this region than is captured in the available data, but we cannot say for sure.
+**Центральная и Южная Америка**
+* На этой неделе мы получили новые последовательности из Южной Америки, но выборка остается разбросанной. В этом регионе может быть больше активности COVID, чем зафиксировано в доступных данных, но мы не можем сказать точно.
 
-**Asia**  
-* We find evidence for recent export of COVID-19 from Iran.
+**Азия**  
+* Мы находим доказательства недавнего экспорта COVID-19 из Ирана.
 
-**Africa**  
-* The phylogeny suggests likely local transmission within Kinshasa, Democratic Republic of the Congo, for the last 11+ days.
-* We received new sequences from Africa this week, but sampling remains sparse; there may be much more COVID activity in this region than is captured in the available data.
+**Африка**  
+* Филогения предполагает вероятную местную передачу в городе Киншаса, Демократической Республике Конго, в течение последних 11+ дней.
+* На этой неделе мы получили новые последовательности из Африки, но выборка остается разбросанной; в этом регионе может быть намного больше активности COVID, чем зафиксировано в доступных данных.
 
-**Oceania**
-* There is evidence in the genetic data for local transmission in New South Wales, Australia.
+**Океания**
+* В генетических данных есть свидетельства локальной передачи в штате Австралии Новый Южный Уэльс.
 ```
 
 
