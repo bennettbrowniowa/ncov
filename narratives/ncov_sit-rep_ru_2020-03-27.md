@@ -204,7 +204,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ SOUTH AMERICA ############# -->
 <!-- This is left-side text 10-->
-# [Updates for Central & South America](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
+# [Обновления по Центральной и Южной Америке](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -212,13 +212,13 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 11-->
-# [Primarily travel-related cases sampled in South America](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
-We don't have much genetic sequence data from South America yet.
-Of the available data, most are from travelers.
-Here, each case is colored by the known exposure history.
+# [Первичные случаи связанные с путешествиями протестированные в Южной Америке](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
+У нас пока нет достаточного количества данных секвенирования из Южной Америке.
+Из доступных данных- большинство от путешественников. 
+Здесь каждый случай раскрашен в соответствии с известной историей путешествий.
 <br><br>
-While potentially interesting patterns are starting to emerge in the non-travel-associated cases, we don't yet have enough evidence to draw conclusions.
-Sequencing efforts are ramping up, and we will report back as the situation becomes clearer.
+Хотя потенциально интересные мотивы начинают проявляться в случаях не связанных с путешествиями, у нас по-прежнему нет достаточных доказательств чтобы делать выводы. 
+Усилия по секвенированию набирают обороты, и мы веремся с докладом как только ситуация прояснится. 
 <!-- There is no right side text -->
 
 
