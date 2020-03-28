@@ -113,12 +113,12 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from viral isolates taken in 48 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Заметка о сборе образцов](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
+На данный момент в нашем распоряжении есть вирусные последовательности из образцов собранных в 48 странах на 6 континентах. Это необыкновенное достижение-- Секвенирование генома крупного нового РНК-вируса в состоянии пандемии является сложной задачей, и возможно только благодаря необычайной работе и своевременному предоставлению данных в общий доступ учеными и врачами по всему миру.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Хотя эти данные позволяют предсказать многие важные характеристики вспышки и отслеживать ее распространение в реальном времени, очень важно подчеркнуть, что выводы ограничиваются доступными данными. 
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Например, карта показывает очень немногочисленные последовательности доступные с южной части мира. Это происходит НЕ из-за того, что COVID-19 не циркулирует в этих местностях, или потому, что эти случаи неважны для понимания, мы попросту не обладаем достаточными данными из этих регионов. Размер каждого круга на карте соответствует количеству доступной информации, а не реальному размеру вспышки. 
 <!-- There is NO right-side text -->
 
 
