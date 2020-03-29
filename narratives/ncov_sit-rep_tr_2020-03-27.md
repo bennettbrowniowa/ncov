@@ -580,19 +580,17 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Detaylı bilimsel kredi](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
-
+Bu veriler GISAID üzerinden paylaşılabiliyor. Onlara katkıları için çok teşekkür ediyoruz.
 <br>
 
-To the right we give specific sequences shared by each lab.
+Sağda her laboratuvar tarafından paylaşılan dizilerin bilgilerini bulabilirsiniz.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 genomları bu laboratuvarlardaki cömert bilim insanları tarafından paylaşıldı:
 
 * Andersen Lab, The Scripps Research Institute
 	* USA/CA-MG0987/2020
