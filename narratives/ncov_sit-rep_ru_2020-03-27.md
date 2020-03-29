@@ -145,11 +145,10 @@ abstract: "Этот отчет использует общедоступные �
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [New sequences from Iceland](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
+# [Новые последовательности из Исландии](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
 
-We received many new sequences from Iceland.
-Coloring by the exposure history of each case (when known), we see that many of these cases are from recent travelers.
-We're working hard to analyze all of this new data, and will report our findings next week.
+Мы получили много новых последовательностей из Исландии.
+Раскрашивая по истории воздействия каждого случая (если известно), мы видим, что многие из этих случаев от недавних путешественников. Мы прилагаем все усилия, чтобы проанализировать все эти новые данные, и сообщим о наших выводах на следующей неделе.
 <!-- There is no right side text -->
 
 
