@@ -45,7 +45,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 * [Afrika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
 * [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
 * [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
-* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Bilimsel katkılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -336,7 +336,7 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text 20-->
-# [Bilimsel Kredi](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br>
@@ -577,19 +577,19 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Detaylı bilimsel katkılar](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
+Onlara katkıları için çok teşekkür ediyoruz.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Sağda her laboratuvar tarafından paylaşılan dizilerin bilgilerini bulabilirsiniz.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 genomları bu laboratuvarlardaki cömert bilim insanları tarafından paylaşıldı:
 
 * Andersen Lab, The Scripps Research Institute
 	* USA/CA-MG0987/2020
