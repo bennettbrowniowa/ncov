@@ -19,11 +19,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zeynep Harcanoğlu", "Eren Ada", "Benura Azeroglu"
+translators:
+  - Zeynep Harcanoğlu
+  - Eren Ada
+  - Benura Azeroglu
 translatorLinks:
-- https://twitter.com/zharcanoglu
-- https://twitter.com/erenada
-- https://www.researchgate.net/profile/Benura_Azeroglu
+  - https://twitter.com/zharcanoglu
+  - https://twitter.com/erenada
+  - https://www.researchgate.net/profile/Benura_Azeroglu
 date: "27 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
 abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenmektedir."
@@ -37,16 +40,16 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- This is left-side text 1-->
 # [İçindekiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
-* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-26?n=2).     
-* [Veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
-* [Avrupa hakkında güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
-* [Kuzey Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
-* [Orta & Güney Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
-* [Asya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=12).  
-* [Afrika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
-* [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
-* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
-* [Bilimsel katkılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=2).     
+* [Veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=3).  
+* [Avrupa hakkında güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=4).  
+* [Kuzey Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=7).  
+* [Orta & Güney Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=11).  
+* [Asya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=13).  
+* [Afrika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=15).  
+* [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=17).  
+* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=19).  
+* [Bilimsel katkılar](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=20).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -71,7 +74,7 @@ Burada, halka açık olarak paylaşılan 1495 COVID-19 genom dizisini analiz ett
 
 **Afrika**  
 * Filogenetik analizler, Kongo Demokratik Cumhuriyeti'nin Kinshasa şehrinde son 11+ gün içinde yerel bulaşma olduğuna işaret ediyor.
-* Bu hafta elimize Afrika'dan yeni genom dizi verileri ulaştı ancak örneklem hala kısıtlı. Bu bölgede, eldeki kısıtlı verilerin gösterdiğinden daha yüksek seviyede COVID-19 hareketliliği olabilir, ancak bundan tam anlamıyla emin değiliz. 
+* Bu hafta elimize Afrika'dan yeni genom dizi verileri ulaştı ancak örneklem hala kısıtlı. Bu bölgede, eldeki kısıtlı verilerin gösterdiğinden daha yüksek seviyede COVID-19 hareketliliği olabilir, ancak bundan tam anlamıyla emin değiliz.
 
 **Okyanusya**
 * Avustralya, New South Wales'teki yerel bulaşmaya dair genetik veri kanıtlarımız var.
@@ -121,7 +124,7 @@ Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](h
 # [Örnekleme hakkında not](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
 Şu anda elimizde 6 kıta, 48 ülkeden alınan örneklerden elde ettiğimiz genom diziler var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
 <br><br>
-Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var. 
+Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var.
 <br><br>
 Bu harita dünyanın güney bölgelerden az sayıda genomik dizi verisi geldiğini gösteriyor. Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır. Haritadaki her dairenin boyutu salgının gerçek boyutunu değil, o bölge hakkında sahip olduğuğumuz veriyi göstermektedir.
 <!-- There is NO right-side text -->
@@ -145,7 +148,7 @@ Burada, son 3 hafta içinde Avrupa'dan toplanmış örnekleri alındıkları ül
 Bu da salgının son 3-5 haftadır ülke sınırları ötesinde yayılmaya devam ettiğini gösteriyor.
 <br><br>
 
-Bu coğrafi kümelenme, yakın zamanda bölgeler arasındaki seyahati azaltmaya yönelik alınan sert önlemler ile daha da belirgin hale gelebilir. 
+Bu coğrafi kümelenme, yakın zamanda bölgeler arasındaki seyahati azaltmaya yönelik alınan sert önlemler ile daha da belirgin hale gelebilir.
 <!-- There is no right side text -->
 
 <!-- ##### slide break ##### -->
@@ -268,7 +271,7 @@ Kongo Demokratik Cumhuriyeti'nde Kinshasa'dan alınan genom dizi verileri, birka
 <br><br>
 Bu genom dizilerinden bazıları, birkaç gün boyunca örneklenmiş çok yakın ilişkili yerel vakalardan oluşan bir grup oluşturuyor.
 <br><br>
-Bu, en  az 15 Mart'tan bu yana süregelen, hatta daha da erken başlamış olma ihtimali olan bir yerel bulaşıya işaret ediyor (en erken vakanın örneklenmesi bu yerel bulaşma zincirinin bir parçası gibi duruyor). 
+Bu, en  az 15 Mart'tan bu yana süregelen, hatta daha da erken başlamış olma ihtimali olan bir yerel bulaşıya işaret ediyor (en erken vakanın örneklenmesi bu yerel bulaşma zincirinin bir parçası gibi duruyor).
 <br><br>
 INRB'nin harika çalışmaları sayesinde erken vakalardan alınan virüs genomunun dizilemesi, başka yerlerde gizli kalmış olan komünite bulaşılarını görmemizi de sağlıyor.
 <!-- There is no right side text -->
