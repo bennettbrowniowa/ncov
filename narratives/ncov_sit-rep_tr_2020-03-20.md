@@ -19,7 +19,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zeynep Harcanoğlu", "Eren Ada"
+translators: "Zeynep Harcanoğlu", "Eren Ada", "Benura Azeroglu"
 translatorLinks:
 - https://twitter.com/zharcanoglu
 - https://www.linkedin.com/in/zeynepharcanoglu/
