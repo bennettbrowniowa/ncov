@@ -1,5 +1,5 @@
 ---
-title: COVID-19 salgınının genomik analizi. 20 Mart 2020 tarihi için durum raporu.
+title: COVID-19 salgınının genomik analizi. 20 Mart 2020 tarihli durum raporu.
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -225,7 +225,7 @@ Bu sadece bir örnek. Utah'ta veya başka bölgelerde, henüz genom dizi verisi 
 Aynı şekilde düşünülürse, henüz bilmediğimiz pek çok yerel bulaşı zinciri olması muhtemel.
 <br><br>
 
-Bu, sosyal mesafe önlemlerinin hayata geçirildiği bölgelerde bile önümüzdeki bir kaç hafta süresince vaka sayısının büyümesini beklediğimiz anlamına geliyor. Bu artışlar, bu önlemlerin işe yaramadığını GÖSTERMEZ. Hali hazırda enfekte olmuş bireylerin (ve muhtemelen hane halkının) semptom göstermesi, tedavi edilmesi ve iyileşmesi zaman alır. Testlerin daha yaygın hale gelmesiyle rapor edilen vakaların sayısında bir artış görmek de mümkündür.
+Bu, sosyal mesafe önlemlerinin hayata geçirildiği bölgelerde bile önümüzdeki bir kaç hafta süresince vaka sayısının büyümesini beklediğimiz anlamına geliyor. Bu artışlar, bu önlemlerin işe yaramadığını GÖSTERMEZ. Halihazırda enfekte olmuş bireylerin (ve muhtemelen hane halkının) semptom göstermesi, tedavi edilmesi ve iyileşmesi zaman alır. Testlerin daha yaygın hale gelmesiyle rapor edilen vakaların sayısında bir artış görmek de mümkündür.
 
 <br><br>
 Bu süre zarfında sosyal mesafenin korunması oldukça önemlidir. Sağ tarafta gösterildiği gibi, müdahale edildikten sonra vaka sayıları artmaya devam eder. Ancak, zamanla, toplam vaka sayısı büyük ölçüde azalır.
@@ -262,7 +262,7 @@ Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azal
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız (örneğin yaşlı ve önceden süregelen sağlık sorunları olanlar gibi).
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
 * Ellerinizi "acı biber doğradıktan sonra lenslerinizi değiştirmek zorundaymışçasına" yıkayın.
-* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzamelerinizi hazırda bulundurun.  
+* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzemelerinizi hazırda bulundurun.  
 * Eğer bir işverenseniz, mümkün olduğunca çalışanlarınızın evden çalışmalarına izin verin veya teşvik edin.
 
 ## yetkililer olarak...
