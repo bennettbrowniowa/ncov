@@ -19,14 +19,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: 
-	- Zeynep Harcanoğlu
-	- Eren Ada
-	- 
+translators:
+  - Zeynep Harcanoğlu
+  - Eren Ada
+  -
 translatorLinks:
-	- https://twitter.com/zharcanoglu
-	- https://twitter.com/erenada
-	- 
+  - https://twitter.com/zharcanoglu
+  - https://twitter.com/erenada
+  -
 date: "27 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
 abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik verileri kullanır. Raporlar haftalık olarak güncellenir."
@@ -122,7 +122,7 @@ Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](h
 # [Örnekleme hakkında bir not](https://nextstrain.org/ncov/2020-03-27?c=country&r=country&d=map&p=grid&legend=closed)
 Şu anda elimizde 6 kıta, 48 ülkeden alınan örneklerden elde ettiğimiz diziler (sekanslar) var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
 <br><br>
-Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var. 
+Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var.
 <br><br>
 Bu harita güney bölgelerden az sayıda sekans geldiğini gösteriyor.  Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
 <!-- There is NO right-side text -->
