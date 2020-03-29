@@ -1,5 +1,5 @@
 ---
-title:COVID-19 salgınının genomik analizi. 27 Mart 2020 tarihi için durum raporu.
+title: COVID-19 salgınının genomik analizi. 27 Mart 2020 tarihi için durum raporu.
 authors:
   - Sidney M. Bell
   - Nicola Müller
