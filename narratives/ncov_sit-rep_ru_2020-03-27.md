@@ -265,7 +265,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 Новые последовательности из Киншасы в Демократической Республике Конго показывают признаки нескольких отдельных случаев проникновения вируса.
 <br><br>
-Некоторые из этих последовательностей образуют группу очень тесно взаимосвязанных, локальных случаев, которые были отобраны в течении нескольких дней
+Некоторые из этих последовательностей образуют группу очень тесно взаимосвязанных, локальных случаев, которые были отобраны в течении нескольких дней.
 <br><br>
 Это согласуется с локальной передачей, продолжающейся как минимум с 15 марта (дата выборки самого раннего случая, который, как представляется, является частью этой локальной цепи передачи) и, возможно, ранее.
 <br><br>
@@ -277,7 +277,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ OCEANIA ############# -->
 <!-- This is left-side text 17-->
-# [Updates for Oceania](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
+# [Обновления по Океании](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -285,11 +285,10 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 18-->
-# [Local transmission in New South Wales](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
+# [Локальная трансмиссия в штате Новый Южный Уэльс](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
 
-New sequences from Australia show evidence of local transmission across New South Wales.
-The virus has likely been circulating in this area since at least the end of February.
-
+Новые последовательности из Австралии показывают признаки локальной передачи по штату Новый Южный Уэльс.
+Вирус, вероятно, циркулирует в этой области, по крайней мере, с конца февраля.
 <!-- There is no right side text -->
 
 
