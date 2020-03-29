@@ -128,9 +128,9 @@ O nedenle, bu açıklamaları okurken haritadaki her bir dairenin boyutunun salg
 <!-- This is left-side text 6 -->
 # [Dizi (sekans) verileri seyahat geçmişlerini doğruyabilir](https://nextstrain.org/ncov/2020-03-20?legend=open&c=division_exposure&label=clade:A1a&d=tree)
 
-Bilinen bir vakanın nerede enfekte olduğunu belirlemek, herhangi bir bolgede yayilim sebebinin yerel yayılım veya seyahat ilişkili yayılım olduğunun anlaşılması için önemlidir. Genom dizi verisi, bu senaryolar arasında ayrım yapmamıza yardımcı olabilir.
+Bilinen bir vakanın nerede enfekte olduğunu belirlemek, herhangi bir bölgede yayılım sebebinin yerel yayılım veya seyahat ilişkili yayılım olduğunun anlaşılması için önemlidir. Genom dizi verisi, bu senaryolar arasında ayrım yapmamıza yardımcı olabilir.
 <br><br>
-Buradaki filogenetik ağaç, bir vakanın (bilindiği durumlarda) seyahat geçmişine göre renklendirilmiştir. Ortadaki Kanada dizisine baktığımızda (Canada/BC_78548/2020), bu vakanın Avrupa'ya seyahat geçmişi bildirdiğini görüyoruz. Bu bulaşma, ağaç üzerinde de Avrupa'dan gelen diğer diziler ile birlikte gruplandığidan, bu da bu vakanın çok yüksek ihtimal ile seyahat ilişkili olduğunu gösteriyor.
+Buradaki filogenetik ağaç, bir vakanın (bilindiği durumlarda) seyahat geçmişine göre renklendirilmiştir. Ortadaki Kanada dizisine baktığımızda (Canada/BC_78548/2020), bu vakanın Avrupa'ya seyahat geçmişi bildirdiğini görüyoruz. Bu bulaşma, ağaç üzerinde de Avrupa'dan gelen diğer diziler ile birlikte gruplandığından, bu da bu vakanın çok yüksek ihtimal ile seyahat ilişkili olduğunu gösteriyor.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7 -->
@@ -142,7 +142,7 @@ Burada, yakın zamanda İran'a seyahat etmiş vakaların neredeyse hepsinin ağa
 <br><br>
 Diğer bir yandan, ağacın üst kısımlarında Kanada'dan İran'a seyahat geçmişi olan bir vaka görüyoruz. Ancak bu dizi İran'a seyahat etmiş diğer vakalardan çok daha uzak bir yerde gruplanıyor.
 <br><br>
-Bu kişinin yüksek ihtimal ile İran'da süregelen ikinci bir bulaşı zincirinden enfekte olmuş olduğu halede elimizde daha fazla veri olmadan bu vakanın seyahat ilişkili olduğunu doğrulayamayız.
+Bu kişinin yüksek ihtimal ile İran'da süregelen ikinci bir bulaşı zincirinden enfekte olmuş olduğu halde elimizde daha fazla veri olmadan bu vakanın seyahat ilişkili olduğunu doğrulayamayız.
 
 <!-- There is no right side text -->
 
