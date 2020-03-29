@@ -48,30 +48,30 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 * [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Özet
 
-We analyzed 1,495 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we report:
+Burada, halka açık olarak paylaşılan 1495 COVID-19 genomunu analiz ettik. Bu viral genomları karşılaştırarak COVID-19'un dünya üzerinde nasıl hareket ettiğini karakterize edebiliriz. Bu haftanın rapor güncellemesinde:
 
-**Europe**  
+**Avrupa**  
 * We continue to see strong mixing of samples across Europe, suggesting that the virus has continued to move across borders in the last 3-5 weeks. As mitigation measures have time to take effect, we may see more clustering of cases by country.
 
-**North America**   
+**Kuzey Amerika**   
 * Within the U.S., transmission patterns are complex: samples collected from opposite sides of the country still show close relationships.
 * Washington state has had at least two independent introductions (the first likely from China, the second likely from Europe), which have led to two separate transmission chains.
 * There is evidence for likely local transmission within several states, most clearly within California.
 
-**Central and South America**
-* We received new sequences from South America this week, but sampling remains sparse. There may be more COVID activity in this region than is captured in the available data, but we cannot say for sure.
+**Orta ve Güney Amerika**
+* Bu hafta Güney Amerika'dan yeni dizi(sekans) verileri aldık, fakat örnekleme halen seyrek kalıyor; bu bölgede mevcut verilerde fark edilenden çok daha fazla COVID aktivitesi olabilir, ancak tamamen kesin diyemeyiz.
 
 **Asya**  
-* We find evidence for recent export of COVID-19 from Iran.
+* COVID-19'un İran'dan dışarıya yayılmasına dair kanıtlar buluyoruz.
 
 **Afrika**  
-* The phylogeny suggests likely local transmission within Kinshasa, Democratic Republic of the Congo, for the last 11+ days.
-* We received new sequences from Africa this week, but sampling remains sparse; there may be much more COVID activity in this region than is captured in the available data.
+* Son 11+ günde, filogeni Demokratik Kongo Cumhuriyeti, Kinşasa'daki muhtemel yerel bulaşıyı gösteriyor.
+* Bu hafta Afrika'dan yeni dizilm (sekans) datası aldık, fakat örnekleme halen seyrek kalıyor; bu bölgede mevcut verilerde fark edilenden çok daha fazla COVID aktivitesi olabilir.
 
 **Okyanusya**
-* There is evidence in the genetic data for local transmission in New South Wales, Australia.
+* Avustralya, New South Wales'teki yerel bulaşıya dair genetik veri kanıtlarımız var.
 ```
 
 
