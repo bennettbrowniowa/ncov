@@ -23,6 +23,7 @@ translators: "Zeynep Harcanoğlu", "Eren Ada", "Benura Azeroglu"
 translatorLinks:
 - https://twitter.com/zharcanoglu
 - https://twitter.com/erenada
+- https://www.researchgate.net/profile/Benura_Azeroglu
 date: "20 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-20?legend=closed&d=map&legend=closed"
 abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenir."
