@@ -227,7 +227,7 @@ Genom dizileme çalışmaları hızlanıyor, durum biraz daha netleştikçe biz 
 
 <!-- ############ ASYA ############# -->
 <!-- This is left-side text 12-->
-# [Asya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
+# [Asya hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -254,7 +254,7 @@ Bu, bir kaç farklı hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda 
 
 <!-- ############ AFRİKA ############# -->
 <!-- This is left-side text 14-->
-# [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
+# [Afrika hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
 
 
 
@@ -277,7 +277,7 @@ INRB'nin harika çalışmaları sayesinde erken vakalardan alınan virüs genomu
 
 <!-- ############ OKYANUSYA ############# -->
 <!-- This is left-side text 17-->
-# [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
+# [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
