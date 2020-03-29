@@ -1,5 +1,5 @@
 ---
-title: COVID-19 salgınının genomik analizi. 27 Mart 2020 tarihi için durum raporu.
+title:COVID-19 salgınının genomik analizi. 27 Mart 2020 tarihi için durum raporu.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -37,38 +37,40 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 # [İçindekiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
 * [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-26?n=2).     
-* [Bu veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
-* [Avrupa hakkındaki güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
-* [Kuzey Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
-* [Orta & Güney Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
-* [Asya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=12).  
-* [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
-* [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
+* [Veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
+* [Avrupa hakkında güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
+* [Kuzey Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
+* [Orta & Güney Amerika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
+* [Asya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=12).  
+* [Afrika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
+* [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
 * [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
 * [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Özet
+
+# Yönetici özeti
 
 Burada, halka açık olarak paylaşılan 1495 COVID-19 genomunu analiz ettik. Bu viral genomları karşılaştırarak COVID-19'un dünya üzerinde nasıl hareket ettiğini karakterize edebiliriz. Bu haftanın rapor güncellemesinde:
 
+
 **Avrupa**  
-* We continue to see strong mixing of samples across Europe, suggesting that the virus has continued to move across borders in the last 3-5 weeks. As mitigation measures have time to take effect, we may see more clustering of cases by country.
+* Avrupa kıtasından gelen örneklerin birbirlerine oldukça karışmış olduğunu görmeye devam ediyoruz. Bu durum virüsün son 3-5 gün içinde sınırlar boyunca hareket ettiğine işaret ediyor. Salgını kontrol altına almak için alınan önlemlerin etkisini göstermesi için zamana ihtiyaç olduğundan, ülkelerdeki vaka sayısında artış gözlemlenebilir.
 
 **Kuzey Amerika**   
-* Within the U.S., transmission patterns are complex: samples collected from opposite sides of the country still show close relationships.
-* Washington state has had at least two independent introductions (the first likely from China, the second likely from Europe), which have led to two separate transmission chains.
-* There is evidence for likely local transmission within several states, most clearly within California.
+* Amerika Birleşik Devletleri'ndeki yayılım örüntüleri biraz karmaşık: ülkenin her iki yakasından toplanan örnekler hala yakın ilişkili görülüyor.
+* Washington eyaleti, birbirinden bağımsız en az iki virüs girişi yaşadı (ilki çok yüksek ihtimal ile Çin'den, ikincisi ise Avrupa'dan). Bu durum iki farklı bulaşı zincirine yol açtı.
+* Bir kaç eyalet içinde yerel bulaşı olduğuna dair kanıtlar var -- özellikle de California içerisinde.
 
 **Orta ve Güney Amerika**
-* Bu hafta Güney Amerika'dan yeni dizi(sekans) verileri aldık, fakat örnekleme halen seyrek kalıyor; bu bölgede mevcut verilerde fark edilenden çok daha fazla COVID aktivitesi olabilir, ancak tamamen kesin diyemeyiz.
+* Bu hafta Güney Amerika'dan yeni genom dizi verileri elimize ulaştı ancak örneklem hala seyrek kalıyor. Bu bölgede, eldeki kısıtlı verilerin gösterdiğinden daha yüksek seviyede COVID-19 hareketliliği olabilir, ancak bundan tam anlamıyla emin değiliz.
 
 **Asya**  
-* COVID-19'un İran'dan dışarıya yayılmasına dair kanıtlar buluyoruz.
+* Yakın zamanda İran'dan dış ülkelere COVID-19 çıkışı olduğuna dair kanıtlar bulduk.
 
 **Afrika**  
-* Son 11+ günde, filogeni Demokratik Kongo Cumhuriyeti, Kinşasa'daki muhtemel yerel bulaşıyı gösteriyor.
-* Bu hafta Afrika'dan yeni dizilm (sekans) datası aldık, fakat örnekleme halen seyrek kalıyor; bu bölgede mevcut verilerde fark edilenden çok daha fazla COVID aktivitesi olabilir.
+* Filogenetik analizer, Kongo Demokratik Cumhuriyeti'nin Kinshasa şehrinde son 11+ gün içinde yerel bulaşının olduğuna işaret ediyor.
+* Bu hafta elimize Afrika'dan yeni genom dizi verileri ulaştı ancak örneklem hala kısıtlı. Bu bölgede, eldeki kısıtlı verilerin gösterdiğinden daha yüksek seviyede COVID-19 hareketliliği olabilir, ancak bundan tam anlamıyla emin değiliz. 
 
 **Okyanusya**
 * Avustralya, New South Wales'teki yerel bulaşıya dair genetik veri kanıtlarımız var.
@@ -78,8 +80,8 @@ Burada, halka açık olarak paylaşılan 1495 COVID-19 genomunu analiz ettik. Bu
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 2-->
 # [COVID-19 Kaynakları](https://nextstrain.org/ncov/2020-03-27)
-COVID-19 ve buna neden olan virüs olan hCov-19 olarak da bilinen SARS-CoV-2'yi tanımak için okumaya değer bazı kaynaklar hazırladık.
-Bu bilgi, bu metinde sunduğumuz verilerin yorumlanmasını kolaylaştıracaktır.
+COVID-19 ve buna neden olan SARS-CoV-2 virüsünü tanımak için okumaya değer bazı kaynaklar hazırladık.
+Bu bilgi, bu açıklamada sunduğumuz verilerin yorumlanmasını kolaylaştıracaktır.
 <br><br>
 Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](https://nextstrain.org/narratives/trees-background/) okuyup ve hazır olduğunuzda buraya geri dönmenizi tavsiye ediyoruz.
 <!-- This is right-side text -->
@@ -87,7 +89,7 @@ Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](h
 
 ## Nextstrain Kaynakları
 
-[Bir filogenezden nasıl anlam çıkarırsınız](https://nextstrain.org/narratives/trees-background/).  
+[Bir filogeniden nasıl anlam çıkarırsınız](https://nextstrain.org/narratives/trees-background/).  
 
 [Koronavirüslerin arkaplanı](https://nextstrain.org/help/coronavirus/human-CoV).
 
@@ -120,15 +122,14 @@ Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](h
 <br><br>
 Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var. 
 <br><br>
-Bu harita güney bölgelerden az sayıda sekans geldiğini gösteriyor.  Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır. Haritadaki her dairenin boyutu salgının gerçek boyutunu değil, o bölge hakkında sahip olduğuğumuz veriyi göstermektedir.
+Bu harita dünyanın güney bölgelerden az sayıda genomik dizisi verisi geldiğini gösteriyor. Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır. Haritadaki her dairenin boyutu salgının gerçek boyutunu değil, o bölge hakkında sahip olduğuğumuz veriyi göstermektedir.
 <!-- There is NO right-side text -->
-
 
 
 
 <!-- ############ EUROPE ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
+# [Avrupa hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Europe&p=grid&r=country&c=country)
 
 
 <!-- There is no right side text -->
@@ -136,29 +137,27 @@ Bu harita güney bölgelerden az sayıda sekans geldiğini gösteriyor.  Bunun n
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [Continued spread across borders in the last 3-5 weeks](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
+# [Son 3-5 haftadır sınırlar boyunca devam eden salgın](https://nextstrain.org/ncov/2020-03-27?c=country&d=tree,map&dmin=2020-03-06&f_region=Europe&p=full&r=country&legend=closed)
 
-Here, we show samples collected across Europe in the last 3 weeks, colored by the country they were isolated in.
-Notably, while there are some small clusters that are country-specific, there is also a great deal of mixing between isolates from different countries.
+Burada, son 3 hafta içinde Avrupa'dan toplanmış örnekleri alındıkları ülkelere göre renklendirerek gösterdik. Dikkat çekici bir şekilde, ülke bazlı kümelenmeler görülse de hala farklı ülkelerden gelen örnekler arasında bir iç-içe geçme durumu var.
 <br><br>
-This suggests that there has been continued spread across borders within the last 3-5 weeks.
+u da salgının son 3-5 haftadır sınırlar boyunca yayılmaya devam ettiğini gösteriyor.
 <br><br>
-This geographic clustering might become stronger with recent mitigation efforts that curtail travel between regions.
+
+Bu coğrafi kümelenme, yakın zamanda bölgeler arasındaki seyahati azaltmaya yönelik alınan sert önlemler ile daha da belirgin hale gelebilir. 
 <!-- There is no right side text -->
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 5-->
-# [New sequences from Iceland](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
+# [İzlanda'dan yeni genom verileri](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_country=Iceland&legend=open)
 
-We received many new sequences from Iceland.
-Coloring by the exposure history of each case (when known), we see that many of these cases are from recent travelers.
-We're working hard to analyze all of this new data, and will report our findings next week.
-<!-- There is no right side text -->
+İzlanda'dan elimize pek çok yeni genom dizisi ulaştı. Vakanları (bilindiği durumlarda) virüse yakalanma geçmişine göre renklendirdiğimizde pek çoğunun yakın zamanda seyahat etmiş olduğunu görüyoruz.
+Bu yeni verileri analiz etmek için oldukça yoğun bir şekilde çalışıyoruz; bulgularımızı da önümüzdeki hafta bildireceğiz. <!-- There is no right side text -->
 
 
-<!-- ############ NORTH AMERICA ############# -->
+<!-- ############ KUZEY AMERİKA ############# -->
 <!-- This is left-side text 6-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
+# [Kuzey Amerika hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=North%20America&p=grid&r=location&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -166,48 +165,48 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 7-->
-# [Transmission across the U.S. is complex and not well-understood](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_division=Connecticut&label=clade:B1&m=div&p=full)
+# [ABD içerisindeki yayılım karmaşık ve henüz tam olarak anlaşılmış değil](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_division=Connecticut&label=clade:B1&m=div&p=full)
 
-Even within the U.S., transmission patterns are highly complex.
+ABD içindeki yayılım örüntüleri dahi oldukça karmaşık.
 <br><br>
-For example, recent samples from Connecticut (selected tips) are both ancestral to and intermingled with samples from Washington state (faded tips).
-While more data is needed to draw firm conclusions, this suggests that there has been recent transmission between even very distant parts of the country.
+Örneğin, Connecticut'tan gelen yeni örnekler (seçilmiş noktalar) hem Washington'dan gelen örneklere (soluk noktalar) atasal olduğu görülüyor hem de onlar ile birlikte gruplanıyor. Kesin kanıya varmak için daha fazla veriye ihtiyacımız olsa da, bu durum ülkenin iki uzak ucu arasında bile yakın zamanda gerçekleşmiş olan bir bulaşıya işaret ediyor.
 <br><br>
-This highlights that the transmission patterns across the U.S. are far more complex than is represented in the currently available data.
-Additional data will help us understand what is likely a deeply interconnected national epidemic playing out against the backdrop of highly heterogeneous responses from states.
+Bu durum, AB içerisindeki bulaşı örüntülerinin elimizdeki verilerin gösterdiğinden çok daha karmaşık olduğuna dikkat çekiyor.
+Elde edilecek yeni veriler, muhtemelen derin bir şekilde birbirine bağlı olan ulusal bir epideminin eyaletlerin bir birinden farklı önlemlerine karşı nasıl cevap vereceğini anlamamıza yardım edecektir.
+
 <!-- There is no right side text -->
 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 8-->
-# [Multiple transmission chains circulating in Washington state](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
+# [Washginton'da birden fazla bulaşı zinciri dolaşım halinde](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=USA&f_division=Washington&p=full&r=location)
 
-Looking at the cases in Washington state, we see that there are at least two separate local outbreak clusters.
+Washington eyaletinen gelen vakalara bakıldığında en az iki farklı yerel salgın kümesi görüyoruz.
 <br><br>
-However, the two clusters have different origins: the first cluster is most closely related to samples from China, while the second is most closely related to samples from Europe. It is also possible that these introductions were indirect, with unsampled cases from a different region in between.
+Ancak, bu iki küme farklı kökenlere sahip: İlk küme Çin'den gelen örneklere daha yakınken ikinci küme Avrupa'dan gelen örneklere daha yakın. Diğer bir yandan, bu virüs girişleri bu iki bölge arasında olan farklı bir yerden örneklenmemiş vakalar ile dolaylı yollardan gerçekleşmiş de olabilir.
 <br><br>
 <!-- There is no right side text -->
 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 9-->
-# [Likely two local transmission chains in California](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
+# [California'da muhtemel iki yerel bulaşı zinciri](https://nextstrain.org/ncov/2020-03-27?c=location&f_country=USA&f_division=California&label=clade:A7&p=full&r=location&m=div&d=tree,map)
 
-We see similar patterns elsewhere in the U.S.
+Benzer örüntüleri ABD içinde başka yerlerde de görüyoruz.
 <br><br>
-Here, we see several samples from Solano County in northern California, that are sampled on different dates but very closely related to one another.
+Burada, Kuzey California'daki Solano County'den gelen bir kaç örneği görüyoruz. Bunlar farklı tarihlerde alınan örnekler ancak birbirilerine oldukça yakınlar.
 <br><br>
-While the available data from California is too limited to make strong conclusions, this preliminary evidence is consistent with local transmission within Solano County.
+California'dan gelen örnekler kesin kanıya varmak için oldukça yetersiz olsa da, bu öncül sonuçlar Solano County içinde yerel bulaşı olduğuna işaret ediyor.
 <br><br>
-Elsewhere in the tree, we see a similar pattern for samples isolated in Santa Clara County.
+Filogenetik ağacın başka bir yerinde Santa Clara County'den gelen örneklerin benzer örüntüler gösterdiğini görüyoruz.
 <br><br>
-These counties' clusters of cases are likely to due to separate introductions, based on their relative positions in the tree.
+Bu vakaların ağaçtaki göreceli pozisyonlarına bakılırsa, bu bölgelerin kümelenmeleri yüksek ihtimal ile farklı virüs girişlerinen kaynaklı.
 <!-- There is no right side text -->
 
 
-<!-- ############ SOUTH AMERICA ############# -->
+<!-- ############ GÜNEY AMERİKA ############# -->
 <!-- This is left-side text 10-->
-# [Updates for Central & South America](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
+# [Orta & Güney Amerika hakkında güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Central%20America,South%20America&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -215,19 +214,17 @@ These counties' clusters of cases are likely to due to separate introductions, b
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 11-->
-# [Primarily travel-related cases sampled in South America](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
-We don't have much genetic sequence data from South America yet.
-Of the available data, most are from travelers.
-Here, each case is colored by the known exposure history.
+# [Güney Amerika'dan seyahat ilişkili örnekler](https://nextstrain.org/ncov/2020-03-27?c=division_exposure&d=tree,map&f_region=Central%20America,South%20America&m=div&p=full&legend=open)
+Elimizde henüz Güney Amerika'dan pek örnek yok. Var olan verinin çoğu seyahat ilişkili. Burada, her vaka bilinen bulaşma geçmişlerine göre renklendirildi.
 <br><br>
-While potentially interesting patterns are starting to emerge in the non-travel-associated cases, we don't yet have enough evidence to draw conclusions.
-Sequencing efforts are ramping up, and we will report back as the situation becomes clearer.
+Seyahat ilişkili olmayan ilginç örüntüler ortaya çıkmaya başlasa da elimizde kesin kanıya varmak için yeterli bulgu yok.
+Genom dizileme çalışmaları hızlanıyor, durum biraz daha netleştikçe biz de bunları rapor edececeğiz.
 <!-- There is no right side text -->
 
 
 
 
-<!-- ############ ASIA ############# -->
+<!-- ############ ASYA ############# -->
 <!-- This is left-side text 12-->
 # [Asya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
 
@@ -237,24 +234,24 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Iran'dan COVID-19'un dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [İran'dan COVID-19'un dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
 Henüz İran'dan alınan viral genomumuz yok.
-Ancak, İran'a seyahat ettiği bildirilen birçok vakanın sekans (dizi) verileri var.
+Ancak, İran'a seyahat ettiği bildirilen bir çok vakanın genom dizi verileri var.
 <br><br>
-İran’a seyahat geçmişi olan vakaların birçoğu gruplanıyor, ki bu da İran’daki vakaların çoğunun İran'a tek bir virüs girişinden kaynaklandığını gösteriyor.
+İran’a seyahat geçmişi olan vakaların bir çoğu birlikte gruplanıyor ki bu da İran’daki vakaların çoğunun İran'a tek bir virüs girişinden kaynaklandığını gösteriyor.
 <br><br>
-Ağacın en alt kısmında, Pakistandan İran'a yolculuk yaptığı raporlanmış bir kadının dizi (sekans) verilerini görmekteyiz.
+Ağacın en alt kısmında, Pakistan'dan İran'a yolculuk yaptığı raporlanmış bir kadının genom dizi verilerini görmekteyiz.
 İlginç  bir şekilde, bu vaka İran'da bildiğimiz diğer vakalardan dış bir grupta yer alıyor, fakat neredeyse aynı zamanlarda örneklenmiş.
 <br><br>
-Bu, birçok hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda, analizimizi güncelleyeceğiz.
+Bu, bir kaç farklı hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda analizimizi güncelleyeceğiz.
 <!-- There is no right side text -->
 
 
 
 
-<!-- ############ AFRICA ############# -->
+<!-- ############ AFRİKA ############# -->
 <!-- This is left-side text 14-->
 # [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
 
@@ -264,20 +261,20 @@ Bu, birçok hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda, analizim
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 15-->
-# [Kongo, Kinşasa'daki yerel bulaşı için bulgular](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
+# [Kongo, Kinshasa'daki yerel bulaşı için bulgular](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
-Kongo Demokratik Cumhuriyeti'nde Kinşasa'dan alınan dizilim(sekans) verileri, birkaç ayrı virüs giriş faaliyetinin olduğunu kanıtlıyor.
+Kongo Demokratik Cumhuriyeti'nde Kinshasa'dan alınan genom dizi verileri, birkaç ayrı virüs girişinin olduğunu kanıtlıyor.
 <br><br>
-Bu sekanslardan bazıları, birkaç gün boyunca örneklenmiş çok yakın ilişkili yerel vakalardan oluşan bir grup oluşturuyor.
+Bu genom dizilerinden bazıları, birkaç gün boyunca örneklenmiş çok yakın ilişkili yerel vakalardan oluşan bir grup oluşturuyor.
 <br><br>
-Bu, 15 Mart (bu yerel bulaşı zincirinin bir parçası gibi görünen en eski vakanın örnekleme tarihi) ve büyük olasılık daha erkendir devam eden yerel bulaşıyla tutarlı. 
+Bu, en  az 15 Mart'tan bu yana süregelen, hatta daha da erken başlamış olma ihtimali olan bir yerel bulaşıya işaret ediyor (en erken vakanın örneklenmesi bu yerel bulaşı zincirinin bir parçası gibi duruyor). 
 <br><br>
-INRB'nin harika çalışmasıyla virüsün erken örneklerinde dizilemesi başka yerlerde gizli kalmış olan komunite bulaşılarını görmemizi sağlıyor.
+INRB'nin harika çalışmaları sayesinde erken vakalardan alınan virüs genomunun dizilemesi, başka yerlerde gizli kalmış olan komünite bulaşılarını görmemizi de sağlıyor.
 <!-- There is no right side text -->
 
 
 
-<!-- ############ OCEANIA ############# -->
+<!-- ############ OKYANUSYA ############# -->
 <!-- This is left-side text 17-->
 # [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
 
@@ -289,8 +286,8 @@ INRB'nin harika çalışmasıyla virüsün erken örneklerinde dizilemesi başka
 <!-- This is left-side text 18-->
 # [New South Wales'teki yerel bulaşı](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
 
-Avustralya'dan gelen yeni dizilim(sekans) verileri New South Wales'teki yerel bulaşıyı kanıtlıyor.
-Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşıyor.
+Avustralya'dan gelen yeni genom dizi verileri New South Wales'teki yerel bulaşıya kanıt oluşturuyor.
+Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım halinde.
 
 <!-- There is no right side text -->
 
@@ -580,17 +577,19 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text -->
-# [Detaylı bilimsel kredi](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-Bu veriler GISAID üzerinden paylaşılabiliyor. Onlara katkıları için çok teşekkür ediyoruz.
+These data were shared via [GISAID](https://gisaid.org).
+We gratefully acknowledge their contributions.
+
 <br>
 
-Sağda her laboratuvar tarafından paylaşılan dizilerin bilgilerini bulabilirsiniz.
+To the right we give specific sequences shared by each lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-SARS-CoV-2 genomları bu laboratuvarlardaki cömert bilim insanları tarafından paylaşıldı:
+The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
 
 * Andersen Lab, The Scripps Research Institute
 	* USA/CA-MG0987/2020
