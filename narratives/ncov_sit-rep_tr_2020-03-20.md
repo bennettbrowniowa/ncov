@@ -22,7 +22,6 @@ affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA
 translators: "Zeynep Harcanoğlu", "Eren Ada", "Benura Azeroglu"
 translatorLinks:
 - https://twitter.com/zharcanoglu
-- https://www.linkedin.com/in/zeynepharcanoglu/
 - https://twitter.com/erenada
 date: "20 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-20?legend=closed&d=map&legend=closed"
