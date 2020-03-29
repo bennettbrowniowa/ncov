@@ -48,7 +48,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 * [Washington salgını nasıl yayıldı](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=11).
 * [Sosyal mesafe ile vaka sayıları nasıl değişir](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=12).
 * [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=13).
-* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=14).
+* [Bilimsel katkılar](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=14).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -277,7 +277,7 @@ Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azal
 
 
 <!-- This is left-side text 14-->
-# [Bilimsel Kredi](https://nextstrain.org/ncov/2020-03-20?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-03-20?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz.
 Bu gibi çalışmalar yalnızca genomik dizi verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
@@ -593,7 +593,7 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 13-->
-# [Detaylı Bilimsel Kredi](https://nextstrain.org/ncov/2020-03-20?d=map&c=author)
+# [Detaylı Bilimsel Katkılar](https://nextstrain.org/ncov/2020-03-20?d=map&c=author)
 
 Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
 Onlara katkıları için çok teşekkür ediyoruz.
