@@ -345,7 +345,7 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br>
 
-Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için [GISAID'e] (https://gisaid.org) minnettarlıkla teşekkür ederiz.
+Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için [GISAID'e](https://gisaid.org) minnettarlıkla teşekkür ederiz.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
