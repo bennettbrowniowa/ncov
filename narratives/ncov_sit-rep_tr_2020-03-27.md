@@ -229,7 +229,7 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ############ ASIA ############# -->
 <!-- This is left-side text 12-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
+# [Asya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Asia&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -237,18 +237,18 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [Export of COVID-19 from Iran](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [Iran'dan COVID-19'un dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-We do not yet have viral genomes from Iran.
-However, we do have sequences from many cases with reported travel to Iran.
+Henüz İran'dan alınan viral genomumuz yok.
+Ancak, İran'a seyahat ettiği bildirilen birçok vakanın sekans (dizi) verileri var.
 <br><br>
 Most sequences with travel history to Iran group together, suggesting that a lot of the Iranian cases were derived from a single introduction into Iran.
 <br><br>
-At the very bottom of the tree, we see a new sequence from a woman in Pakistan with reported travel to Iran.
-Interestingly, this case is an outgroup to the other cases that we know about from Iran, but was sampled around the same time.
+Ağacın en alt kısmında, Pakistandan İran'a yolculuk yaptığı raporlanmış bir kadının dizi (sekans) verilerini görmekteyiz.
+İlginç  bir şekilde, bu vaka İran'da bildiğimiz diğer vakalardan dış bir grupta yer alıyor, fakat neredeyse aynı zamanlarda örneklenmiş.
 <br><br>
-This is consistent with several possible hypotheses; as more data emerges, we'll update our analysis.
+Bu, birçok hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda, analizimizi güncelleyeceğiz.
 <!-- There is no right side text -->
 
 
@@ -299,7 +299,7 @@ The virus has likely been circulating in this area since at least the end of Feb
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 19-->
-# [Ne yapabilirsiniz](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Ne yapabilirsiniz?](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 #### ...bireysel olarak
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
