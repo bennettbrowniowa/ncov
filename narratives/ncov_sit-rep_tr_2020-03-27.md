@@ -235,13 +235,13 @@ Genom dizileme çalışmaları hızlanıyor, durum biraz daha netleştikçe biz 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 13-->
-# [İran'dan COVID-19'un dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
+# [COVID-19'un İran'dan dışarıya yayılması](https://nextstrain.org/ncov?c=division_exposure&label=clade:A3&m=div&d=tree,map&f_division_exposure=Iran)
 <!-- There is no right side text -->
 
-Henüz İran'dan alınan viral genomumuz yok.
+Henüz İran'dan elde edilmiş viral genomumuz yok.
 Ancak, İran'a seyahat ettiği bildirilen bir çok vakanın genom dizi verileri var.
 <br><br>
-İran’a seyahat geçmişi olan vakaların bir çoğu birlikte gruplanıyor ki bu da İran’daki vakaların çoğunun İran'a tek bir virüs girişinden kaynaklandığını gösteriyor.
+İran’a seyahat geçmişi olan vakaların bir çoğu birlikte gruplanıyor ki bu da İran’daki vakaların çoğunun İran'daki tek bir virüs girişinden kaynaklandığını gösteriyor.
 <br><br>
 Ağacın en alt kısmında, Pakistan'dan İran'a yolculuk yaptığı raporlanmış bir kadının genom dizi verilerini görmekteyiz.
 İlginç  bir şekilde, bu vaka İran'da bildiğimiz diğer vakalardan dış bir grupta yer alıyor, fakat neredeyse aynı zamanlarda örneklenmiş.
@@ -316,11 +316,11 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 
 ```auspiceMainDisplayMarkdown
 ## Çıkarımlar
-#### Önümüzdeki birkaç hafta içinde, Avrupa'daki yeni azaltma önlemlerinin sınır ötesi bulaşmayı engellediğine dair izleri göreceğiz.
+#### Önümüzdeki birkaç hafta içinde, Avrupa'da alınan önlemlerinin sınır ötesi bulaşmayı yavaşlattığına dair izleri takip ediyor olacağız.
 <br><br>
-#### Daha fazla genomik dizi verisi mevcut hale geldikçe, Güney Amerika'daki yerel bulaşma belirtileri için durumu izleyeceğiz.
+#### Daha fazla genomik dizi verisi gelmeye başladıkça, Güney Amerika'daki yerel bulaşma belirtilerinın durumunu izleyeceğiz.
 <br><br>
-#### Amerika Birleşik Devletleri epidemiğinin hem dışarıya hem de ülkenin farklı bölgelerine yayılımı açısından çok karışık bir bulaşı modeli var. Washington ve California'ya ait yerel bulaşma zincirlerine dair kanıtlar bulduk.
+#### Amerika Birleşik Devletleri'nde epidemiğinin dışarıdan gelişi ve ülkenin farklı bölgelerine yayılımı açısından oldukça karışık bir bulaşma modeli var. Washington ve California'da birden fazla yerel bulaşı zinciri olduğuna dair kanıtlar bulduk.
 <br><br>
 #### Avustralya, New South Wales'teki yerel bulaşmaya dair kanıtlar bulduk.
 <br><br>
