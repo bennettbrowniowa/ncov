@@ -253,7 +253,7 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ############ AFRICA ############# -->
 <!-- This is left-side text 14-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
+# [Обновления по Африке](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
 
 
 
@@ -261,15 +261,16 @@ We're working hard to analyze all of this new data, and will report our findings
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 15-->
-# [Evidence for local transmission in Kinshasa, Congo](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
+# [Свидетельства локальной передачи в Киншасе, Конго](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
-New sequences from Kinshasa in the Democratic Republic of the Congo show evidence for several separate introduction events.
+Новые последовательности из Киншасы в Демократической Республике Конго показывают признаки нескольких отдельных случаев проникновения вируса.
 <br><br>
-Some of these sequences form a group of very closely related, local cases that were sampled over several days.
+Некоторые из этих последовательностей образуют группу очень тесно взаимосвязанных, локальных случаев, которые были отобраны в течении нескольких дней
 <br><br>
-This is consistent with local transmission, ongoing since at least March 15 (the sampling date of the earliest case that appears to be part of this local transmission chain) and possibly earlier.
+Это согласуется с локальной передачей, продолжающейся как минимум с 15 марта (дата выборки самого раннего случая, который, как представляется, является частью этой локальной цепи передачи) и, возможно, ранее.
 <br><br>
-The INRB's excellent work to sequence the virus from early samples allows us to see community transmission that is hidden in many other places.
+Отличная работа Национального Института Биомедицинксих Исследований (INRB) по выделению вируса из ранних образцов позволяет нам видеть передачу в общинах, которая скрыта во многих других местах.
+
 <!-- There is no right side text -->
 
 
