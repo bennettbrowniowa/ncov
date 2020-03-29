@@ -37,7 +37,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 # [İçindekiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
 * [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-26?n=2).     
-* [Veriler hakkındaki](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
+* [Bu veriler hakkında](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
 * [Avrupa hakkındaki güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
 * [Kuzey Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
 * [Orta & Güney Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
