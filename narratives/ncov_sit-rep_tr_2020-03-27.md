@@ -243,7 +243,7 @@ Sequencing efforts are ramping up, and we will report back as the situation beco
 Henüz İran'dan alınan viral genomumuz yok.
 Ancak, İran'a seyahat ettiği bildirilen birçok vakanın sekans (dizi) verileri var.
 <br><br>
-Most sequences with travel history to Iran group together, suggesting that a lot of the Iranian cases were derived from a single introduction into Iran.
+İran’a seyahat geçmişi olan vakaların birçoğu gruplanıyor, ki bu da İran’daki vakaların çoğunun İran'a tek bir virüs girişinden kaynaklandığını gösteriyor.
 <br><br>
 Ağacın en alt kısmında, Pakistandan İran'a yolculuk yaptığı raporlanmış bir kadının dizi (sekans) verilerini görmekteyiz.
 İlginç  bir şekilde, bu vaka İran'da bildiğimiz diğer vakalardan dış bir grupta yer alıyor, fakat neredeyse aynı zamanlarda örneklenmiş.
@@ -256,7 +256,7 @@ Bu, birçok hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda, analizim
 
 <!-- ############ AFRICA ############# -->
 <!-- This is left-side text 14-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
+# [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Africa&p=grid&r=country)
 
 
 
@@ -264,11 +264,11 @@ Bu, birçok hipotez ile tutarlı; daha fazla veriye sahip olduğumuzda, analizim
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 15-->
-# [Evidence for local transmission in Kinshasa, Congo](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
+# [Kongo, Kinşasa'daki yerel bulaşı için bulgular](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_country=Congo&f_region=Africa&label=clade:A2a&p=grid&r=country)
 
-New sequences from Kinshasa in the Democratic Republic of the Congo show evidence for several separate introduction events.
+Kongo Demokratik Cumhuriyeti'nde Kinşasa'dan alınan dizilim(sekans) verileri, birkaç ayrı virüs giriş faaliyetinin olduğunu kanıtlıyor.
 <br><br>
-Some of these sequences form a group of very closely related, local cases that were sampled over several days.
+Bu sekanslardan bazıları, birkaç gün boyunca örneklenmiş çok yakın ilişkili yerel vakalardan oluşan bir grup oluşturuyor.
 <br><br>
 This is consistent with local transmission, ongoing since at least March 15 (the sampling date of the earliest case that appears to be part of this local transmission chain) and possibly earlier.
 <br><br>
@@ -279,7 +279,7 @@ The INRB's excellent work to sequence the virus from early samples allows us to 
 
 <!-- ############ OCEANIA ############# -->
 <!-- This is left-side text 17-->
-# [Updates for Oceania](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
+# [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&f_region=Oceania&p=grid&r=country&c=country&legend=closed)
 
 
 <!-- There is no right side text -->
@@ -287,10 +287,10 @@ The INRB's excellent work to sequence the virus from early samples allows us to 
 
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 18-->
-# [Local transmission in New South Wales](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
+# [New South Wales'teki yerel bulaşı](https://nextstrain.org/ncov/2020-03-27?Label=clade:A3&d=tree&f_division=New%20South%20Wales&label=clade:A3&p=full&r=location)
 
-New sequences from Australia show evidence of local transmission across New South Wales.
-The virus has likely been circulating in this area since at least the end of February.
+Avustralya'dan gelen yeni dizilim(sekans) verileri New South Wales'teki yerel bulaşıyı kanıtlıyor.
+Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşıyor.
 
 <!-- There is no right side text -->
 
@@ -317,8 +317,8 @@ The virus has likely been circulating in this area since at least the end of Feb
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-## Takeaways
-####  In the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
+## Çıkarımlar
+#### In the next few weeks, we will be watching the European outbreak for signs that the new mitigation measures have stemmed cross-border transmission.
 <br><br>
 #### We will be monitoring the situation in South America for signs of local transmission as more sequences become available.
 <br><br>
