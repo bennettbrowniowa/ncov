@@ -268,7 +268,7 @@ Kongo Demokratik Cumhuriyeti'nde Kinshasa'dan alınan genom dizi verileri, birka
 <br><br>
 Bu genom dizilerinden bazıları, birkaç gün boyunca örneklenmiş çok yakın ilişkili yerel vakalardan oluşan bir grup oluşturuyor.
 <br><br>
-Bu, en  az 15 Mart'tan bu yana süregelen, hatta daha da erken başlamış olma ihtimali olan bir yerel bulaşıya işaret ediyor (en erken vakanın örneklenmesi bu yerel bulaşı zincirinin bir parçası gibi duruyor). 
+Bu, en  az 15 Mart'tan bu yana süregelen, hatta daha da erken başlamış olma ihtimali olan bir yerel bulaşıya işaret ediyor (en erken vakanın örneklenmesi bu yerel bulaşma zincirinin bir parçası gibi duruyor). 
 <br><br>
 INRB'nin harika çalışmaları sayesinde erken vakalardan alınan virüs genomunun dizilemesi, başka yerlerde gizli kalmış olan komünite bulaşılarını görmemizi de sağlıyor.
 <!-- There is no right side text -->
