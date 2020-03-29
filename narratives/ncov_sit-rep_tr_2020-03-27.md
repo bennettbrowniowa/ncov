@@ -78,8 +78,8 @@ Burada, halka açık olarak paylaşılan 1495 COVID-19 genomunu analiz ettik. Bu
 <!-- ##### slide break ##### -->
 <!-- This is left-side text 2-->
 # [COVID-19 Kaynakları](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+COVID-19 ve buna neden olan virüs olan hCov-19 olarak da bilinen SARS-CoV-2'yi tanımak için okumaya değer bazı kaynaklar hazırladık.
+Bu bilgi, bu metinde sunduğumuz verilerin yorumlanmasını kolaylaştıracaktır.
 <br><br>
 Filogenetik ağaçlara aşina değilseniz, ['How to Read Phylogenies' metnini](https://nextstrain.org/narratives/trees-background/) okuyup ve hazır olduğunuzda buraya geri dönmenizi tavsiye ediyoruz.
 <!-- This is right-side text -->
