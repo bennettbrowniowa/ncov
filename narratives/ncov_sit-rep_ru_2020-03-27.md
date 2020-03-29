@@ -89,7 +89,7 @@ abstract: "Этот отчет использует общедоступные �
 
 [Главная информация о коронавирусах](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Главная информация о недавней вспышке nCov-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Главная информация о недавней вспышке hCov-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [Часто задаваемые вопросы](https://nextstrain.org/help/coronavirus/FAQ).
 
