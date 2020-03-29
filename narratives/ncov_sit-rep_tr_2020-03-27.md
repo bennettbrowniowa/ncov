@@ -19,10 +19,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zeynep Harcanoğlu", "Eren Ada"
+translators: 
+	- Zeynep Harcanoğlu
+	- Eren Ada
+	- 
 translatorLinks:
-- https://twitter.com/zharcanoglu
-- https://twitter.com/erenada
+	- https://twitter.com/zharcanoglu
+	- https://twitter.com/erenada
+	- 
 date: "27 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-27?d=tree,map"
 abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik verileri kullanır. Raporlar haftalık olarak güncellenir."
@@ -36,16 +40,16 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- This is left-side text 1-->
 # [İçindekiler](https://nextstrain.org/ncov/2020-03-27?d=tree,map&p=grid)
 
-* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-26?n=2).     
-* [Veriler hakkındaki](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=3).  
-* [Avrupa hakkındaki güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=4).  
-* [Kuzey Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=6).  
-* [Orta & Güney Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=10).  
-* [Asya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=12).  
-* [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
-* [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
-* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
-* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=2).     
+* [Veriler hakkındaki](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=3).  
+* [Avrupa hakkındaki güncel blgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=4).  
+* [Kuzey Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=7).  
+* [Orta & Güney Amerika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=11).  
+* [Asya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=13).  
+* [Afrika hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=15).  
+* [Okyanusya hakkındaki güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=17).  
+* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=19).  
+* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?n=20).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
