@@ -92,7 +92,7 @@ Bu bilgi, bu açıklamada sunduğumuz verilerin yorumlanmasını kolaylaştırac
 ## İlave Okuma
 
 * SARS-CoV-2 salgınının özeti [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak).
-* Bu raporda alıntılanan tüm vaka sayıları Dünya Sağlık Örgütü'nden [WHO] alınmışır. Tarih: 03 Mart 2020.  (https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200318-sitrep-58-covid-19.pdf?sfvrsn=20876712_2)
+* Bu raporda alıntılanan tüm vaka sayıları Dünya Sağlık Örgütü'nden [WHO](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200318-sitrep-58-covid-19.pdf?sfvrsn=20876712_2) alınmışır. Tarih: 03 Mart 2020.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -112,7 +112,7 @@ Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yay
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4 -->
 # [Bazı bölgeler bu verilerde yeterince temsil edilmemektedir](https://nextstrain.org/ncov/2020-03-20?c=country&d=map&f_region=Central%20America,Oceania,South%20America,Africa&legend=closed&p=full&r=country)
-Bu harita dünyanın güney bölgelerden az sayıda genomik dizisi verisi geldiğini gösteriyor. Örneğin, elimizde [Dünya Sağlık Örgütü]'nün Latin Amerika'da COVID-19 vakası raporladığı 25 ülkeden sadece 4 tanesinden genom dizisi var.(https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200319-sitrep-59-covid-19.pdf?sfvrsn=c3dcdef9_2) Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır.
+Bu harita dünyanın güney bölgelerden az sayıda genomik dizisi verisi geldiğini gösteriyor. Örneğin, elimizde [Dünya Sağlık Örgütü](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200319-sitrep-59-covid-19.pdf?sfvrsn=c3dcdef9_2)'nün Latin Amerika'da COVID-19 vakası raporladığı 25 ülkeden sadece 4 tanesinden genom dizisi var. Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır.
 
 <br><br>
 <!-- There is NO right-side text -->
@@ -233,7 +233,9 @@ Bu süre zarfında sosyal mesafenin korunması oldukça önemlidir. Sağ tarafta
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-## Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azaltmak-- zor olabilir, ancak toplum sağlığı için çok önemlidir. Eğer herkes günlük iletişimini %25 oranında azaltırsa, gelecek ay toplam vaka sayısında %50 oranında bir azalma gözlemleyebiliriz. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
+## Socal distancing doesn't stop all new cases overnight, but it greatly decreases case counts and fatalities over time.
+
+Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azaltmak-- zor olabilir, ancak toplum sağlığı için çok önemlidir. Eğer herkes günlük iletişimini %25 oranında azaltırsa, gelecek ay toplam vaka sayısında %50 oranında bir azalma gözlemleyebiliriz. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
   <img src="https://github.com/nextstrain/ncov/raw/master/figures/social-distancing-efficacy.png" width="70%">
 </div>
@@ -282,7 +284,7 @@ Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, 
 Bu gibi çalışmalar yalnızca genomik dizi verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br>
 
-Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için [GISAID'e] (https://gisaid.org) minnettarlıkla teşekkür ederiz.
+Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için [GISAID'e](https://gisaid.org) minnettarlıkla teşekkür ederiz.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
@@ -594,7 +596,7 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- This is left-side text 13-->
 # [Detaylı Bilimsel Kredi](https://nextstrain.org/ncov/2020-03-20?d=map&c=author)
 
-Bu veriler [GISAID] üzerinden paylaşılabiliyor (https://gisaid.org).
+Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
 Onlara katkıları için çok teşekkür ediyoruz.
 
 <br>
