@@ -46,7 +46,7 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 * [Afrika hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=14).  
 * [Okyanusya hakkında güncel bilgiler](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).  
 * [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=18).  
-* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
+* [Bilimsel katkılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=19).  
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -302,13 +302,13 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 * Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
 * Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
 * Ellerinizi "acı biber doğradıktan sonra lenslerinizi değiştirmek zorundaymışçasına" yıkayın.
-* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzamelerinizi hazır edin.  
+* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzemelerinizi hazır edin.  
 * Eğer bir işverenseniz, mümkün olduğunca çalışanlarınızın evden çalışmalarına izin verin veya teşvik edin.
 
 #### ...yetkililer olarak  
 * Testleri ücretsiz ve geniş ölçüde yapılabilir hale getirin.  
 * Sert sosyal mesafe uygulamalarını yürürlüğe koyun.  
-* Kapsamlı temas izleme çalışmlarına maddi destek verin ve uygulamaya geçirin.
+* Kapsamlı temas izleme çalışmalarına maddi destek verin ve uygulamaya geçirin.
 * Sosyal mesafe önlemlerinden etkilenenleri maddi olarak destekleyin.
 
 
@@ -316,15 +316,15 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 
 ```auspiceMainDisplayMarkdown
 ## Çıkarımlar
-#### Önümüzdeki birkaç hafta içinde, Avrupa'daki yeni azaltma önlemlerinin sınır ötesi bulaşıyı engellediğine dair izleri göreceğiz.
+#### Önümüzdeki birkaç hafta içinde, Avrupa'daki yeni azaltma önlemlerinin sınır ötesi bulaşmayı engellediğine dair izleri göreceğiz.
 <br><br>
-#### Daha fazla dizilim (sekans) verisi mevcut hale geldikçe, Güney Amerika'daki yerel bulaşı belirtileri için durumu izleyeceğiz.
+#### Daha fazla genomik dizi verisi mevcut hale geldikçe, Güney Amerika'daki yerel bulaşma belirtileri için durumu izleyeceğiz.
 <br><br>
-#### Amerika Birleşik Devletleri epidemiğinin hem dışarıya hem de ülkenin farklı bölgelerine yayılımı açısından çok karışık bir bulaşı modeli var.Washington ve California'ya ait yerel bulaşım zincirlerine dair kanıtlar bulduk.
+#### Amerika Birleşik Devletleri epidemiğinin hem dışarıya hem de ülkenin farklı bölgelerine yayılımı açısından çok karışık bir bulaşı modeli var. Washington ve California'ya ait yerel bulaşma zincirlerine dair kanıtlar bulduk.
 <br><br>
-#### Avustralya, New South Wales'teki yerel bulaşıya dair kanıtlar bulduk.
+#### Avustralya, New South Wales'teki yerel bulaşmaya dair kanıtlar bulduk.
 <br><br>
-#### Demokratik Kongo Cumhuriyeti'ndeki Kinşasa'da yerel bulaşıya dair kanıtlar bulduk. Virüsün Afrika'nın diğer bölgelerinde dolaşımda olduğuna dair henüz yeterli verimiz yok.
+#### Demokratik Kongo Cumhuriyeti'ndeki Kinşasa'da yerel bulaşmaya dair kanıtlar bulduk. Virüsün Afrika'nın diğer bölgelerinde dolaşımda olduğuna dair henüz yeterli verimiz yok.
 ```
 
 <!-- ##### slide break ##### -->
@@ -337,7 +337,7 @@ Virüs muhtemelen en azından Şubat ayının sonundan beri bu alanda dolaşım 
 <!-- ##### slide break ##### -->
 
 <!-- This is left-side text 20-->
-# [Bilimsel Kredi](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
 Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz. Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 <br>
@@ -580,17 +580,17 @@ Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 <!-- This is left-side text -->
 # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-27?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
+Onlara katkıları için çok teşekkür ediyoruz.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Sağda her laboratuvar tarafından paylaşılan dizilerin bilgilerini bulabilirsiniz.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 genomları bu laboratuvarlardaki cömert bilim insanları tarafından paylaşıldı:
 
 * Andersen Lab, The Scripps Research Institute
 	* USA/CA-MG0987/2020
