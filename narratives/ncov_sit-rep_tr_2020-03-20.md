@@ -248,7 +248,6 @@ Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azal
 - Virüs dünyanın birçok bölgesine birden fazla kere giriş yaptı.  
 <br>
 - Birçok bölgede yerel bulaşmanın kanıtlarını görüyoruz. Bunun ötesinde, önceki virüs girişlerinin bir kaç hafta içinde görünür hale gelecek olan pek çok yerel bulaşıyı hali hazırda başlatmış olduğunu düşünüyoruz.  
-
 <br>
 - Yerel salgınları sosyal mesafe önlemleri ile kontrol almak çok önemlidir. Çünkü:  
   - Sağlık sistemlerinin bir anda çok sayıda vaka ile boğmamak için #EğriyiDüzleştir'meyi sağlar.
