@@ -26,7 +26,7 @@ translatorLinks:
 - https://twitter.com/erenada
 date: "20 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-20?legend=closed&d=map&legend=closed"
-abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik verileri kullanır. Raporlar haftalık olarak güncellenir."
+abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenir."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
