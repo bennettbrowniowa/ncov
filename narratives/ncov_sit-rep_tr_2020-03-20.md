@@ -233,7 +233,7 @@ Bu süre zarfında sosyal mesafenin korunması oldukça önemlidir. Sağ tarafta
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-## Socal distancing doesn't stop all new cases overnight, but it greatly decreases case counts and fatalities over time.
+## Sosyal mesafelenme bir gece içinde yeni vakaların oluşmasını önleyemez, fakat zaman içinde hem ölümleri hem de vaka sayısını önemli ölçüde azaltır.
 
 Sosyal mesafelenme --yani her gün karşılaştığınız insan sayısını azaltmak-- zor olabilir, ancak toplum sağlığı için çok önemlidir. Eğer herkes günlük iletişimini %25 oranında azaltırsa, gelecek ay toplam vaka sayısında %50 oranında bir azalma gözlemleyebiliriz. ([Klein et al., 2020-03-13](https://institutefordiseasemodeling.github.io/COVID-public/reports/Working%20paper%20%E2%80%93%20model-based%20estimates%20of%20COVID-19%20burden%20in%20King%20and%20Snohomish%20counties%20through%20April%207.pdf)).
 <div>
