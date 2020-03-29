@@ -19,11 +19,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zeynep Harcanoğlu", "Eren Ada", "Benura Azeroglu"
+translators:
+  - Zeynep Harcanoğlu
+  - Eren Ada
+  - Benura Azeroglu
 translatorLinks:
-- https://twitter.com/zharcanoglu
-- https://twitter.com/erenada
-- https://www.researchgate.net/profile/Benura_Azeroglu
+  - https://twitter.com/zharcanoglu
+  - https://twitter.com/erenada
+  - https://www.researchgate.net/profile/Benura_Azeroglu
 date: "20 Mart 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-20?legend=closed&d=map&legend=closed"
 abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenir."
@@ -36,16 +39,16 @@ abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık 
 <!-- This is left-side text 1 -->
 # [İçindekiler](https://nextstrain.org/ncov/2020-03-20?d=tree,map&p=grid)
 
-* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=2).     
-* [Örnekleme hakkında bir not](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=3).
-* [Dizi verileri & seyahat geçmişleri](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=6).
-* [COVID-19'un neredeyse tüm ülkelere girişi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=8).
-* [Salgınlar nasıl büyür ve yayılır](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=9).
-* [Washington salgını nasıl büyüdü](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=10).
-* [Washington salgını nasıl yayıldı](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=11).
-* [Sosyal mesafe ile vaka sayıları nasıl değişir](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=12).
-* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=13).
-* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-20?n=14).
+* [Arka plan kaynakları](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=2).     
+* [Örnekleme hakkında bir not](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=3).
+* [Dizi verileri & seyahat geçmişleri](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=6).
+* [COVID-19'un neredeyse tüm ülkelere girişi](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=8).
+* [Salgınlar nasıl büyür ve yayılır](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=9).
+* [Washington salgını nasıl büyüdü](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=10).
+* [Washington salgını nasıl yayıldı](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=11).
+* [Sosyal mesafe ile vaka sayıları nasıl değişir](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=12).
+* [Ne yapabilirsiniz](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=13).
+* [Bilimsel kredi](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-20?n=14).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -99,7 +102,7 @@ Bu bilgi, bu açıklamada sunduğumuz verilerin yorumlanmasını kolaylaştırac
 Şu anda elimizde 6 kıta, 36 ülkeden alınan örneklerden elde ettiğimiz genom dizileri (sekansları) var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
 <br><br>
 
-Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var. Toplam vakalardan yalnızca bir kısım hasta teste tabi tutulur. Test edilen hastalardan ise yalnızca bir kısmından alınan örnekler dizilenmiştir. Hangi grup vakanın test edildiği ve dizilendiği, coğrafi bölgelere ve zamana göre büyük ölçüde değişebilir. Ayrıca, salgına ilişkin filogenetik ağaç oluşturma işlemi daima belirsizlikler barındırır. 
+Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var. Toplam vakalardan yalnızca bir kısım hasta teste tabi tutulur. Test edilen hastalardan ise yalnızca bir kısmından alınan örnekler dizilenmiştir. Hangi grup vakanın test edildiği ve dizilendiği, coğrafi bölgelere ve zamana göre büyük ölçüde değişebilir. Ayrıca, salgına ilişkin filogenetik ağaç oluşturma işlemi daima belirsizlikler barındırır.
 
 <br><br>
 Şimdi birkaç örneğe bakalım.
